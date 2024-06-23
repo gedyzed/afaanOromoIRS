@@ -1,6 +1,4 @@
-# afaanOromoIRS
-
-Afaan Oromo Information Retrieval System (IRS) Project
+# Afaan Oromo Information Retrieval System (IRS) Project
 
 This project implements a comprehensive Information Retrieval System using text processing techniques to extract, index, and search through a collection of documents. It includes modules for text extraction, word frequency analysis, inverted index creation, and query-based document retrieval. A graphical user interface (GUI) built with Tkinter provides a user-friendly interface for performing searches and viewing results.
 
